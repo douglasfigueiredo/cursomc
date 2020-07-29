@@ -1,4 +1,4 @@
-package com.douglasarts.cursomc.controllers;
+package com.douglasarts.cursomc.resources;
 
 import java.util.ArrayList;
 import java.util.List;
